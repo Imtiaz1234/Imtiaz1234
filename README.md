@@ -20,7 +20,7 @@ Maintainer at [Kubernetes Bengali Documentation](https://github.com/kubernetes/w
 
 
 
-
+[![DevStats Card](https://devstats.me/?username=Imtiaz1234)](https://github.com/tico88612/devstats-card)
 
 
 <details>
